@@ -1,3 +1,1 @@
-# teamplateFigure
-# NintendoGameTeamplate
 # NintendoGameTeamplate
